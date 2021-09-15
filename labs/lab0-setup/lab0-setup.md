@@ -19,10 +19,12 @@ Depending on your hardware, follow the instructions provided in this directory: 
 1. What device(s) are you setting up? 
 
 We are setting up 2 devices, a Google Coral and a Jetson Nano (2GB).
+ 
 2. Did you run into any roadblocks following the instructions? What happened, and what did you do to fix the problem?
 
 GPU: (Jetson Nano)
 We faced a hardware problem during booting up. The Jetson Nano and the SD card were not functioning properly. We resolved this by getting a new Jetson and SD card. 
+
 3. Are all group members now able to ssh in to the device from their laptops? If not, why not? How will this be resolved?
 
 GPU (Jetson Nano):
