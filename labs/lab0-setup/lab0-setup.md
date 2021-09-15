@@ -8,9 +8,9 @@ Group name:
 ---
 Group members present in lab today:
 
-Ihor Markevych
-Yuanxin Wang
-Pratik Joshi
+Ihor Markevych,
+Yuanxin Wang,
+Pratik Joshi,
 Karthik Ganesan
 
 1: Set up your device.
