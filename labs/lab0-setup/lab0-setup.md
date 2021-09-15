@@ -7,18 +7,30 @@ If you successfully complete all those tasks, then your final task is to write a
 Group name:
 ---
 Group members present in lab today:
+Ihor Markevych
+Yuanxin Wang
+Pratik Joshi
+Karthik Ganesan
 
 1: Set up your device.
 ----
 Depending on your hardware, follow the instructions provided in this directory: [Raspberry Pi 4](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-rpi4.md), [Jetson Nano](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-jetson.md), [Google Coral](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-coral.md). 
-1. What device(s) are you setting up?
+1. What device(s) are you setting up? 
+We are setting up 2 devices, a Google Coral and a Jetson Nano (2GB).
 2. Did you run into any roadblocks following the instructions? What happened, and what did you do to fix the problem?
+
+GPU: (Jetson Nano)
+We faced a hardware problem during booting up. The Jetson Nano and the SD card were not functioning properly. We resolved this by getting a new Jetson and SD card. 
 3. Are all group members now able to ssh in to the device from their laptops? If not, why not? How will this be resolved?
 
+GPU (Jetson Nano):
+Yes, all members are now able to ssh into the device from their laptops.
 2: Collaboration / hardware management plan
 ----
 4. What is your group's hardware management plan? For example: Where will the device(s) be stored throughout the semester? What will happen if a device needs physical restart or debugging? What will happen in the case of COVID lockdown?
 
+GPU (Jetson Nano):
+We plan to keep the device on campus, connected to the Wifi. If a physical restart is needed (or debugging), we will do that on campus.
 
 3: Putting it all together
 ----
