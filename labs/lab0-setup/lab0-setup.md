@@ -7,6 +7,7 @@ If you successfully complete all those tasks, then your final task is to write a
 Group name:
 ---
 Group members present in lab today:
+
 Ihor Markevych
 Yuanxin Wang
 Pratik Joshi
@@ -16,6 +17,7 @@ Karthik Ganesan
 ----
 Depending on your hardware, follow the instructions provided in this directory: [Raspberry Pi 4](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-rpi4.md), [Jetson Nano](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-jetson.md), [Google Coral](https://github.com/strubell/11-767/blob/main/labs/lab0-setup/setup-coral.md). 
 1. What device(s) are you setting up? 
+
 We are setting up 2 devices, a Google Coral and a Jetson Nano (2GB).
 2. Did you run into any roadblocks following the instructions? What happened, and what did you do to fix the problem?
 
